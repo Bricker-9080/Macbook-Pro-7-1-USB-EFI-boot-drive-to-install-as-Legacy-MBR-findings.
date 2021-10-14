@@ -12,7 +12,7 @@ https://1drv.ms/u/s!ArWhGiYHsruWhe4sodgQM-qf6qTw_g?e=2LO4t8
 
 **Step One**
 
-Flash/write the direction iso or at some point when I release my iso using Rufus or other tool as uefi/gpd. Recommend using a second drive because you will need to wipe one or the other sorry about that. I will try to find a way on not having to erase the whole drive.
+Flash/write the direction iso or at some point when I release my iso using Rufus or other tool as uefi/gpt. Recommend using a second drive because you will need to wipe one or the other sorry about that. I will try to find a way on not having to erase the whole drive.
 
 **Step Two**
 
@@ -28,7 +28,7 @@ Next you need to wait for it to copy then boot into iso on MacBook Pro or Mac wa
 
 **Step Five**
 
-Next you need to follow instructions from this video until the gpd and bootloader part.
+Next you need to follow instructions from this video until the GPT and bootloader part.
 
 **Step Six**
 
@@ -38,7 +38,7 @@ Don’t worry this will work on windows 10 and 8,1 and 7
 
 **Step Seven**
 
-Once you get to the partition settings stop 🛑⏹ Once at that point you need to change it to MBR partition table. If you have issues like I did you need to go ahead with gpd option and click okay. Once that happens you definitely need to go to the start menu if using direction iso and search for command prompt or find it on the desktop. Follow this to convert to mbr and follow this [instructions on converting to mbr from gpd partition
+Once you get to the partition settings stop 🛑⏹ Once at that point you need to change it to MBR partition table. If you have issues like I did you need to go ahead with GPT option and click okay. Once that happens you definitely need to go to the start menu if using direction iso and search for command prompt or find it on the desktop. Follow this to convert to mbr and follow this [instructions on converting to mbr from GPT partition
 https://docs.microsoft.com/en-us/wi...management/change-a-gpt-disk-into-an-mbr-disk
 
 **Step Eight**
