@@ -75,6 +75,9 @@ Images of successful boot and windows running completely fine with little to no 
 
 **Links for help or questions
 **
+
 https://linktr.ee/Howeitworks
+
 https://www.howeitworks.com/direction
+
 https://discord.gg/tCHPXVKZ
