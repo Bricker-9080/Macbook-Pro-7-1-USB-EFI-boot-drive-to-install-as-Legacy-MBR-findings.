@@ -28,11 +28,13 @@ Next you need to wait for it to copy then boot into iso on MacBook Pro or Mac wa
 
 **Step Five**
 
-Next you need to follow instructions from this video until the GPT and bootloader part.
+Next you need to follow instructions from this video until the GPT and bootloader 
+https://youtu.be/aijXkWdoVxk
 
 **Step Six**
 
 instructions to follow until 7:07 minutes on video.
+https://youtu.be/aijXkWdoVxk
 
 Don’t worry this will work on windows 10 and 8,1 and 7
 
