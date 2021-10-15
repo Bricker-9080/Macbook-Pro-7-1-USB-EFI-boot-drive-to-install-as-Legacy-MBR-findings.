@@ -72,3 +72,9 @@ BOOTCAMP DRIVERS 4.0.433
 https://drive.google.com/file/d/1hkVkGNo4q-viL-7FZu_ptLuBHHKP4EE1/view
 
 Images of successful boot and windows running completely fine with little to no issues. Despite apple saying this machine is unsupported for windows 10 bootcamp
+
+**Links for help or questions
+**
+https://linktr.ee/Howeitworks
+https://www.howeitworks.com/direction
+https://discord.gg/tCHPXVKZ
